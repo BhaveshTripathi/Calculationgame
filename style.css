@@ -1,0 +1,24 @@
+*{
+    background: burlywood;
+}
+.main{
+   display: flex;
+   justify-content: center;
+   gap: 20px;
+   border: solid black;
+   padding: 10px;
+}
+input{
+    border: solid saddlebrown;
+}
+select{
+    border: solid saddlebrown;
+}
+button{
+    background-color: aliceblue;
+    border: solid saddlebrown;
+}
+button:hover{
+    background-color: saddlebrown;
+    color: aliceblue;
+}
